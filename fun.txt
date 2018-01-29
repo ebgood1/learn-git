@@ -1,1 +1,3 @@
 “Hello world!” - said everyone, always
+
+Foo Fighters are awesome.
